@@ -1,2 +1,2 @@
 # HFcur_BBM
-HF radar currents calculated using Beamforming, Beamscan (direction finding using beamforming) and MUSIC for a beamforming linear array
+A MATLAB package for calculating surface currents from HF radars using Beamforming, Beamscan (direction finding using beamforming) and MUSIC for a linear array
