@@ -175,7 +175,7 @@ HFcur_BBM_sub;
 % I was using this code for single locations and the full current maps are
 % a work in progress currently.
 
-% after this you want to interpolate onto the all the radar current
+% after this you want to interpolate onto all the radar current
 % measurement locations. 
 
 % For beamforming, there is a results at almost all
